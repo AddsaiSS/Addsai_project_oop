@@ -9,9 +9,6 @@ lab: ການພັດທະນາເວັບໄຊດ້ວຍ ພາສາ P
 
   Project ສຳຮອງ  http://addsai.onlinewebshop.net/index.php
     
-     User: monkaddsai
-     Password: 1111
-   
   #ສາມາດ ເຂົ້າສູ່ລະລົບ ເພື່ອຈັດການ 
         - ຈັດການຜູ້ດູແລລະບົບ
         - ຈັດການຜູ້ໃຊ້
